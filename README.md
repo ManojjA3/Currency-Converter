@@ -5,6 +5,6 @@ USD
 KYD
 KWD
 EUR
-GBP
+GBP.
 This was a mini project so it is small-scale.
 The main file is currencyConverter and currencies is a package which contains the functions for conversion.
